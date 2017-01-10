@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.1.2
+
+* added **listen_tcp** (default: false)
+
 ## 0.1.1
 
 * fixed metadata dependencies
